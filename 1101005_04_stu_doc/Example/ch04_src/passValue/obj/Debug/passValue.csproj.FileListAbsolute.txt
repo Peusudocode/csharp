@@ -1,0 +1,5 @@
+c:\cs2013\ch03\passValue\bin\Debug\passValue.exe.config
+c:\cs2013\ch03\passValue\bin\Debug\passValue.exe
+c:\cs2013\ch03\passValue\bin\Debug\passValue.pdb
+c:\cs2013\ch03\passValue\obj\Debug\passValue.exe
+c:\cs2013\ch03\passValue\obj\Debug\passValue.pdb

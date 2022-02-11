@@ -1,0 +1,28 @@
+c:\cs2013\ch03\rndObj\bin\Debug\rndObj.exe.config
+c:\cs2013\ch03\rndObj\bin\Debug\rndObj.exe
+c:\cs2013\ch03\rndObj\bin\Debug\rndObj.pdb
+c:\cs2013\ch03\rndObj\obj\Debug\rndObj.exe
+c:\cs2013\ch03\rndObj\obj\Debug\rndObj.pdb
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch03\rndObj\bin\Debug\rndObj.exe.config
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch03\rndObj\obj\Debug\rndObj.exe
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch03\rndObj\obj\Debug\rndObj.pdb
+C:\Users\ncku\Desktop\計概1041209_13\ch04_src\rndObj\bin\Debug\rndObj.exe.config
+C:\Users\ncku\Desktop\計概1041209_13\ch04_src\rndObj\obj\Debug\rndObj.exe
+C:\Users\ncku\Desktop\計概1041209_13\ch04_src\rndObj\obj\Debug\rndObj.pdb
+C:\Users\ncku\Desktop\計概1041209_13\ch04_src\rndObj\bin\Debug\rndObj.exe
+C:\Users\ncku\Desktop\計概1041209_13\ch04_src\rndObj\bin\Debug\rndObj.pdb
+C:\Users\ncku\Desktop\計概1041209_13\ch04_src\rndObj\obj\Debug\rndObj.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\rndObj\bin\Debug\rndObj.exe.config
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\rndObj\bin\Debug\rndObj.exe
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\rndObj\bin\Debug\rndObj.pdb
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\rndObj\obj\Debug\rndObj.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\rndObj\obj\Debug\rndObj.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\rndObj\obj\Debug\rndObj.exe
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\rndObj\obj\Debug\rndObj.pdb
+C:\Users\user\Desktop\視窗程式設計\1101005_04_stu_doc\Example\ch04_src\rndObj\bin\Debug\rndObj.exe.config
+C:\Users\user\Desktop\視窗程式設計\1101005_04_stu_doc\Example\ch04_src\rndObj\bin\Debug\rndObj.exe
+C:\Users\user\Desktop\視窗程式設計\1101005_04_stu_doc\Example\ch04_src\rndObj\bin\Debug\rndObj.pdb
+C:\Users\user\Desktop\視窗程式設計\1101005_04_stu_doc\Example\ch04_src\rndObj\obj\Debug\rndObj.csprojAssemblyReference.cache
+C:\Users\user\Desktop\視窗程式設計\1101005_04_stu_doc\Example\ch04_src\rndObj\obj\Debug\rndObj.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\視窗程式設計\1101005_04_stu_doc\Example\ch04_src\rndObj\obj\Debug\rndObj.exe
+C:\Users\user\Desktop\視窗程式設計\1101005_04_stu_doc\Example\ch04_src\rndObj\obj\Debug\rndObj.pdb

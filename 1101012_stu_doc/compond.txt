@@ -1,0 +1,7 @@
+            double money = double.Parse(txtCapi.Text);   //本金
+            double years = double.Parse(txtYear.Text);   //年期
+            double yrate = double.Parse(txtRate.Text);   //年利率
+            double total;     //本利和
+            total = money * Math.Pow((1 + yrate / 100), years);
+            label4.Text = "本利和 = NT$ " + total.ToString("#,#.0") + " 元";
+            label4.Text += "\n總利息 = NT$ " + (total - money).ToString("#,#.0") + " 元";

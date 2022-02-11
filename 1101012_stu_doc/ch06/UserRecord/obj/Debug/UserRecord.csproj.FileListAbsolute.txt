@@ -1,0 +1,13 @@
+C:\cs2015\ch05\UserRecord\bin\Debug\UserRecord.exe.config
+C:\cs2015\ch05\UserRecord\bin\Debug\UserRecord.exe
+C:\cs2015\ch05\UserRecord\bin\Debug\UserRecord.pdb
+C:\cs2015\ch05\UserRecord\obj\Debug\UserRecord.exe
+C:\cs2015\ch05\UserRecord\obj\Debug\UserRecord.pdb
+D:\Do\do_VC#\C#2015學習經典\四校\ch05_0805\ch05範例\UserRecord\bin\Debug\UserRecord.exe.config
+D:\Do\do_VC#\C#2015學習經典\四校\ch05_0805\ch05範例\UserRecord\obj\Debug\UserRecord.exe
+D:\Do\do_VC#\C#2015學習經典\四校\ch05_0805\ch05範例\UserRecord\obj\Debug\UserRecord.pdb
+D:\Do\do_VC#\C#2015學習經典\四校\ch05_0805\ch05範例\UserRecord\bin\Debug\UserRecord.exe
+D:\Do\do_VC#\C#2015學習經典\四校\ch05_0805\ch05範例\UserRecord\bin\Debug\UserRecord.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071002_04\1071002_true_doc\ch06\UserRecord\bin\Debug\UserRecord.exe.config
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071002_04\1071002_true_doc\ch06\UserRecord\obj\Debug\UserRecord.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071002_04\1071002_true_doc\ch06\UserRecord\obj\Debug\UserRecord.pdb

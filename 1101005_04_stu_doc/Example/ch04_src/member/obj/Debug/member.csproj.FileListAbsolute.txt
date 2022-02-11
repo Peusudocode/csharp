@@ -1,0 +1,17 @@
+c:\cs2013\ch03\member\bin\Debug\member.exe.config
+c:\cs2013\ch03\member\bin\Debug\member.exe
+c:\cs2013\ch03\member\bin\Debug\member.pdb
+c:\cs2013\ch03\member\obj\Debug\member.exe
+c:\cs2013\ch03\member\obj\Debug\member.pdb
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\member\bin\Debug\member.exe.config
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\member\obj\Debug\member.exe
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\member\obj\Debug\member.pdb
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\member\bin\Debug\member.exe
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\member\bin\Debug\member.pdb
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\member\bin\Debug\member.exe.config
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\member\bin\Debug\member.exe
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\member\bin\Debug\member.pdb
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\member\obj\Debug\member.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\member\obj\Debug\member.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\member\obj\Debug\member.exe
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\ch04_src\member\obj\Debug\member.pdb

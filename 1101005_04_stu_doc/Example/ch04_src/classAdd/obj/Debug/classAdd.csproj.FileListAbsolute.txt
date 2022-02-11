@@ -1,0 +1,14 @@
+c:\cs2013\ch03\classAdd\bin\Debug\classAdd.exe.config
+c:\cs2013\ch03\classAdd\bin\Debug\classAdd.exe
+c:\cs2013\ch03\classAdd\bin\Debug\classAdd.pdb
+c:\cs2013\ch03\classAdd\obj\Debug\classAdd.csprojResolveAssemblyReference.cache
+c:\cs2013\ch03\classAdd\obj\Debug\classAdd.exe
+c:\cs2013\ch03\classAdd\obj\Debug\classAdd.pdb
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch03\classAdd\bin\Debug\classAdd.exe.config
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch03\classAdd\obj\Debug\classAdd.exe
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch03\classAdd\obj\Debug\classAdd.pdb
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\classAdd\bin\Debug\classAdd.exe.config
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\classAdd\obj\Debug\classAdd.exe
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\classAdd\obj\Debug\classAdd.pdb
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\classAdd\bin\Debug\classAdd.exe
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\classAdd\bin\Debug\classAdd.pdb

@@ -1,0 +1,46 @@
+C:\vs2013\ch06\Counter\bin\Debug\Counter.exe.config
+C:\vs2013\ch06\Counter\bin\Debug\Counter.exe
+C:\vs2013\ch06\Counter\bin\Debug\Counter.pdb
+C:\vs2013\ch06\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
+C:\vs2013\ch06\Counter\obj\Debug\Counter.Form1.resources
+C:\vs2013\ch06\Counter\obj\Debug\Counter.Properties.Resources.resources
+C:\vs2013\ch06\Counter\obj\Debug\Counter.csproj.GenerateResource.Cache
+C:\vs2013\ch06\Counter\obj\Debug\Counter.exe
+C:\vs2013\ch06\Counter\obj\Debug\Counter.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06範例\Counter\bin\Debug\Counter.exe.config
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06範例\Counter\obj\Debug\Counter.exe
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06範例\Counter\obj\Debug\Counter.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06-1027\ch06範例\Counter\bin\Debug\Counter.exe.config
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06-1027\ch06範例\Counter\obj\Debug\Counter.exe
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06-1027\ch06範例\Counter\obj\Debug\Counter.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06-1027\ch06範例\Counter\bin\Debug\Counter.exe
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06-1027\ch06範例\Counter\bin\Debug\Counter.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06-1027\ch06範例\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06-1027\ch06範例\Counter\obj\Debug\Counter.Form1.resources
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06-1027\ch06範例\Counter\obj\Debug\Counter.Properties.Resources.resources
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch06-1027\ch06範例\Counter\obj\Debug\Counter.csproj.GenerateResource.Cache
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch06\Counter\bin\Debug\Counter.exe.config
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch06\Counter\obj\Debug\Counter.exe
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch06\Counter\obj\Debug\Counter.pdb
+D:\ncku_school\開課課程\102\上課講義\1030321\ch06\Counter\bin\Debug\Counter.exe.config
+D:\ncku_school\開課課程\102\上課講義\1030321\ch06\Counter\obj\Debug\Counter.exe
+D:\ncku_school\開課課程\102\上課講義\1030321\ch06\Counter\obj\Debug\Counter.pdb
+D:\ncku_school\開課課程\102\上課講義\1030321\ch06\Counter\bin\Debug\Counter.exe
+D:\ncku_school\開課課程\102\上課講義\1030321\ch06\Counter\bin\Debug\Counter.pdb
+D:\ncku_school\開課課程\102\上課講義\1030321\ch06\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\102\上課講義\1030321\ch06\Counter\obj\Debug\Counter.Form1.resources
+D:\ncku_school\開課課程\102\上課講義\1030321\ch06\Counter\obj\Debug\Counter.Properties.Resources.resources
+D:\ncku_school\開課課程\102\上課講義\1030321\ch06\Counter\obj\Debug\Counter.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071002_04\1071002_true_doc\ch06\Counter\bin\Debug\Counter.exe.config
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071002_04\1071002_true_doc\ch06\Counter\obj\Debug\Counter.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071002_04\1071002_true_doc\ch06\Counter\obj\Debug\Counter.pdb
+D:\ncku_school\開課課程\10901\上課教材\1090929_04\1090929_stu_doc\ch06\Counter\bin\Debug\Counter.exe.config
+D:\ncku_school\開課課程\10901\上課教材\1090929_04\1090929_stu_doc\ch06\Counter\bin\Debug\Counter.exe
+D:\ncku_school\開課課程\10901\上課教材\1090929_04\1090929_stu_doc\ch06\Counter\bin\Debug\Counter.pdb
+D:\ncku_school\開課課程\10901\上課教材\1090929_04\1090929_stu_doc\ch06\Counter\obj\Debug\Counter.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1090929_04\1090929_stu_doc\ch06\Counter\obj\Debug\Counter.Form1.resources
+D:\ncku_school\開課課程\10901\上課教材\1090929_04\1090929_stu_doc\ch06\Counter\obj\Debug\Counter.Properties.Resources.resources
+D:\ncku_school\開課課程\10901\上課教材\1090929_04\1090929_stu_doc\ch06\Counter\obj\Debug\Counter.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\10901\上課教材\1090929_04\1090929_stu_doc\ch06\Counter\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\上課教材\1090929_04\1090929_stu_doc\ch06\Counter\obj\Debug\Counter.exe
+D:\ncku_school\開課課程\10901\上課教材\1090929_04\1090929_stu_doc\ch06\Counter\obj\Debug\Counter.pdb

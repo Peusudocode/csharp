@@ -1,0 +1,52 @@
+C:\cs\ch12\keyDown\bin\Debug\keyDown.exe.config
+C:\cs\ch12\keyDown\bin\Debug\keyDown.exe
+C:\cs\ch12\keyDown\bin\Debug\keyDown.pdb
+C:\cs\ch12\keyDown\obj\Debug\keyDown.csprojResolveAssemblyReference.cache
+C:\cs\ch12\keyDown\obj\Debug\keyDown.Form1.resources
+C:\cs\ch12\keyDown\obj\Debug\keyDown.Properties.Resources.resources
+C:\cs\ch12\keyDown\obj\Debug\keyDown.csproj.GenerateResource.Cache
+C:\cs\ch12\keyDown\obj\Debug\keyDown.exe
+C:\cs\ch12\keyDown\obj\Debug\keyDown.pdb
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\keyDown\bin\Debug\keyDown.exe.config
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\keyDown\obj\Debug\keyDown.exe
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\keyDown\obj\Debug\keyDown.pdb
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\keyDown\bin\Debug\keyDown.exe
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\keyDown\bin\Debug\keyDown.pdb
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\keyDown\obj\Debug\keyDown.csprojResolveAssemblyReference.cache
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\keyDown\obj\Debug\keyDown.Form1.resources
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\keyDown\obj\Debug\keyDown.Properties.Resources.resources
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\keyDown\obj\Debug\keyDown.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\102\上課講義\1030509\ch12\keyDown\bin\Debug\keyDown.exe.config
+D:\ncku_school\開課課程\102\上課講義\1030509\ch12\keyDown\obj\Debug\keyDown.exe
+D:\ncku_school\開課課程\102\上課講義\1030509\ch12\keyDown\obj\Debug\keyDown.pdb
+D:\ncku_school\開課課程\105_下學期\1060316_04\1060316_doc\ch12\keyDown\bin\Debug\keyDown.exe.config
+D:\ncku_school\開課課程\105_下學期\1060316_04\1060316_doc\ch12\keyDown\obj\Debug\keyDown.exe
+D:\ncku_school\開課課程\105_下學期\1060316_04\1060316_doc\ch12\keyDown\obj\Debug\keyDown.pdb
+D:\ncku_school\開課課程\105_下學期\1060316_04\1060316_doc\ch12\keyDown\bin\Debug\keyDown.exe
+D:\ncku_school\開課課程\105_下學期\1060316_04\1060316_doc\ch12\keyDown\bin\Debug\keyDown.pdb
+D:\ncku_school\開課課程\105_下學期\1060316_04\1060316_doc\ch12\keyDown\obj\Debug\keyDown.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\105_下學期\1060316_04\1060316_doc\ch12\keyDown\obj\Debug\keyDown.Form1.resources
+D:\ncku_school\開課課程\105_下學期\1060316_04\1060316_doc\ch12\keyDown\obj\Debug\keyDown.Properties.Resources.resources
+D:\ncku_school\開課課程\105_下學期\1060316_04\1060316_doc\ch12\keyDown\obj\Debug\keyDown.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\ch12\keyDown\bin\Debug\keyDown.exe.config
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\ch12\keyDown\obj\Debug\keyDown.exe
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\ch12\keyDown\obj\Debug\keyDown.pdb
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\ch12\keyDown\bin\Debug\keyDown.exe
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\ch12\keyDown\bin\Debug\keyDown.pdb
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\ch12\keyDown\obj\Debug\keyDown.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\ch12\keyDown\obj\Debug\keyDown.Form1.resources
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\ch12\keyDown\obj\Debug\keyDown.Properties.Resources.resources
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\ch12\keyDown\obj\Debug\keyDown.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\ch12\keyDown\bin\Debug\keyDown.exe.config
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\ch12\keyDown\obj\Debug\keyDown.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\ch12\keyDown\obj\Debug\keyDown.pdb
+C:\Users\user\Desktop\視窗程式設計\1101026_stu_doc\ch12\keyDown\bin\Debug\keyDown.exe.config
+C:\Users\user\Desktop\視窗程式設計\1101026_stu_doc\ch12\keyDown\bin\Debug\keyDown.exe
+C:\Users\user\Desktop\視窗程式設計\1101026_stu_doc\ch12\keyDown\bin\Debug\keyDown.pdb
+C:\Users\user\Desktop\視窗程式設計\1101026_stu_doc\ch12\keyDown\obj\Debug\keyDown.csprojAssemblyReference.cache
+C:\Users\user\Desktop\視窗程式設計\1101026_stu_doc\ch12\keyDown\obj\Debug\keyDown.Form1.resources
+C:\Users\user\Desktop\視窗程式設計\1101026_stu_doc\ch12\keyDown\obj\Debug\keyDown.Properties.Resources.resources
+C:\Users\user\Desktop\視窗程式設計\1101026_stu_doc\ch12\keyDown\obj\Debug\keyDown.csproj.GenerateResource.cache
+C:\Users\user\Desktop\視窗程式設計\1101026_stu_doc\ch12\keyDown\obj\Debug\keyDown.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\視窗程式設計\1101026_stu_doc\ch12\keyDown\obj\Debug\keyDown.exe
+C:\Users\user\Desktop\視窗程式設計\1101026_stu_doc\ch12\keyDown\obj\Debug\keyDown.pdb

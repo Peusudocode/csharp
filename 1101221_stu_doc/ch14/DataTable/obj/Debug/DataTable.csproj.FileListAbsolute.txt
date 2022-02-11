@@ -1,0 +1,51 @@
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataTable\bin\Debug\DataTable.exe.config
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataTable\bin\Debug\DataTable.exe
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataTable\bin\Debug\DataTable.pdb
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataTable\obj\Debug\DataTable.Form1.resources
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataTable\obj\Debug\DataTable.Properties.Resources.resources
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataTable\obj\Debug\DataTable.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataTable\obj\Debug\DataTable.exe
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataTable\obj\Debug\DataTable.pdb
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataTable\obj\Debug\DataTable.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataTable\bin\Debug\DataTable.exe.config
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataTable\obj\Debug\DataTable.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataTable\obj\Debug\DataTable.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataTable\bin\Debug\DataTable.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataTable\bin\Debug\DataTable.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataTable\obj\Debug\DataTable.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataTable\obj\Debug\DataTable.Form1.resources
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataTable\obj\Debug\DataTable.Properties.Resources.resources
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataTable\obj\Debug\DataTable.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataTable\bin\Debug\DataTable.exe.config
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataTable\obj\Debug\DataTable.exe
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataTable\obj\Debug\DataTable.pdb
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataTable\bin\Debug\DataTable.exe
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataTable\bin\Debug\DataTable.pdb
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataTable\obj\Debug\DataTable.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataTable\obj\Debug\DataTable.Form1.resources
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataTable\obj\Debug\DataTable.Properties.Resources.resources
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataTable\obj\Debug\DataTable.csproj.GenerateResource.Cache
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\bin\Debug\DataTable.exe.config
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\bin\Debug\DataTable.exe
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\bin\Debug\DataTable.pdb
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\obj\Debug\DataTable.csprojAssemblyReference.cache
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\obj\Debug\DataTable.Form1.resources
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\obj\Debug\DataTable.Properties.Resources.resources
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\obj\Debug\DataTable.csproj.GenerateResource.cache
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\obj\Debug\DataTable.csproj.CoreCompileInputs.cache
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\obj\Debug\DataTable.exe
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\obj\Debug\DataTable.pdb
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\bin\Debug\Database1.mdf
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataTable\bin\Debug\Database1_log.ldf
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\bin\Debug\Database1.mdf
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\bin\Debug\Database1_log.ldf
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\bin\Debug\DataTable.exe.config
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\bin\Debug\DataTable.exe
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\bin\Debug\DataTable.pdb
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\obj\Debug\DataTable.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\obj\Debug\DataTable.Form1.resources
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\obj\Debug\DataTable.Properties.Resources.resources
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\obj\Debug\DataTable.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\obj\Debug\DataTable.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\obj\Debug\DataTable.exe
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataTable\obj\Debug\DataTable.pdb

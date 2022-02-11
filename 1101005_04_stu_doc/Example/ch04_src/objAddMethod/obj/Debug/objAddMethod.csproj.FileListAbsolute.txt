@@ -1,0 +1,6 @@
+c:\cs2013\ch03\objAddMethod\bin\Debug\objAddMethod.exe.config
+c:\cs2013\ch03\objAddMethod\bin\Debug\objAddMethod.exe
+c:\cs2013\ch03\objAddMethod\bin\Debug\objAddMethod.pdb
+c:\cs2013\ch03\objAddMethod\obj\Debug\objAddMethod.csprojResolveAssemblyReference.cache
+c:\cs2013\ch03\objAddMethod\obj\Debug\objAddMethod.exe
+c:\cs2013\ch03\objAddMethod\obj\Debug\objAddMethod.pdb

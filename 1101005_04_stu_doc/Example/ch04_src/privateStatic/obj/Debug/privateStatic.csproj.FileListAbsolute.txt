@@ -1,0 +1,12 @@
+c:\cs2013\ch03\privateStatic\bin\Debug\privateStatic.exe.config
+c:\cs2013\ch03\privateStatic\bin\Debug\privateStatic.exe
+c:\cs2013\ch03\privateStatic\bin\Debug\privateStatic.pdb
+c:\cs2013\ch03\privateStatic\obj\Debug\privateStatic.csprojResolveAssemblyReference.cache
+c:\cs2013\ch03\privateStatic\obj\Debug\privateStatic.exe
+c:\cs2013\ch03\privateStatic\obj\Debug\privateStatic.pdb
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch03\privateStatic\bin\Debug\privateStatic.exe.config
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch03\privateStatic\obj\Debug\privateStatic.exe
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch03\privateStatic\obj\Debug\privateStatic.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\ch04_src\privateStatic\bin\Debug\privateStatic.exe.config
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\ch04_src\privateStatic\obj\Debug\privateStatic.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\ch04_src\privateStatic\obj\Debug\privateStatic.pdb

@@ -1,0 +1,5 @@
+c:\cs2013\ch03\passRef\bin\Debug\passRef.exe.config
+c:\cs2013\ch03\passRef\bin\Debug\passRef.exe
+c:\cs2013\ch03\passRef\bin\Debug\passRef.pdb
+c:\cs2013\ch03\passRef\obj\Debug\passRef.exe
+c:\cs2013\ch03\passRef\obj\Debug\passRef.pdb

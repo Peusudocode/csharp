@@ -1,0 +1,16 @@
+C:\cs2017\ch06\ConsoleProperty1\bin\Debug\ConsoleProperty1.exe.config
+C:\cs2017\ch06\ConsoleProperty1\bin\Debug\ConsoleProperty1.exe
+C:\cs2017\ch06\ConsoleProperty1\bin\Debug\ConsoleProperty1.pdb
+C:\cs2017\ch06\ConsoleProperty1\obj\Debug\ConsoleProperty1.exe
+C:\cs2017\ch06\ConsoleProperty1\obj\Debug\ConsoleProperty1.pdb
+C:\cs2017\ch05\ConsoleProperty1\bin\Debug\ConsoleProperty1.exe.config
+C:\cs2017\ch05\ConsoleProperty1\bin\Debug\ConsoleProperty1.exe
+C:\cs2017\ch05\ConsoleProperty1\bin\Debug\ConsoleProperty1.pdb
+C:\cs2017\ch05\ConsoleProperty1\obj\Debug\ConsoleProperty1.exe
+C:\cs2017\ch05\ConsoleProperty1\obj\Debug\ConsoleProperty1.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070925_03\1070925_true\Example\ConsoleProperty1\bin\Debug\ConsoleProperty1.exe.config
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070925_03\1070925_true\Example\ConsoleProperty1\obj\Debug\ConsoleProperty1.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070925_03\1070925_true\Example\ConsoleProperty1\obj\Debug\ConsoleProperty1.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070925_03\1070925_true\Example\ConsoleProperty1\bin\Debug\ConsoleProperty1.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070925_03\1070925_true\Example\ConsoleProperty1\bin\Debug\ConsoleProperty1.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070925_03\1070925_true\Example\ConsoleProperty1\obj\Debug\ConsoleProperty1.csprojResolveAssemblyReference.cache

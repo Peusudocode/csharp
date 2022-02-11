@@ -1,0 +1,11 @@
+c:\cs2013\ch03\factorial\bin\Debug\factorial.exe.config
+c:\cs2013\ch03\factorial\bin\Debug\factorial.exe
+c:\cs2013\ch03\factorial\bin\Debug\factorial.pdb
+c:\cs2013\ch03\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+c:\cs2013\ch03\factorial\obj\Debug\factorial.exe
+c:\cs2013\ch03\factorial\obj\Debug\factorial.pdb
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\factorial\bin\Debug\factorial.exe.config
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\factorial\obj\Debug\factorial.exe
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\factorial\obj\Debug\factorial.pdb
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\factorial\bin\Debug\factorial.exe
+D:\ncku_school\開課課程\102\上課講義\1030313\10303014report\ch03\factorial\bin\Debug\factorial.pdb

@@ -1,0 +1,6 @@
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070315_03\1070315_true_doc\Block variables\Block variables\bin\Debug\Block variables.exe.config
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070315_03\1070315_true_doc\Block variables\Block variables\obj\Debug\Block variables.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\108第一學期\1080924_03\1080924_03_true\Example\Block variables\Block variables\obj\Debug\Block variables.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\108第一學期\1080924_03\1080924_03_true\Example\Block variables\Block variables\bin\Debug\Block variables.exe.config
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\Block variables\Block variables\obj\Debug\Block variables.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1090922_03\1090922_03_true\Example\Block variables\Block variables\obj\Debug\Block variables.csproj.CoreCompileInputs.cache

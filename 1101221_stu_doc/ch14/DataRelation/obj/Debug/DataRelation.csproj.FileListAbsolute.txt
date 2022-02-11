@@ -1,0 +1,71 @@
+C:\cs2013\ch14\DataRelation\bin\Debug\DataRelation.exe.config
+C:\cs2013\ch14\DataRelation\bin\Debug\DataRelation.exe
+C:\cs2013\ch14\DataRelation\bin\Debug\DataRelation.pdb
+C:\cs2013\ch14\DataRelation\obj\Debug\DataRelation.Form1.resources
+C:\cs2013\ch14\DataRelation\obj\Debug\DataRelation.Properties.Resources.resources
+C:\cs2013\ch14\DataRelation\obj\Debug\DataRelation.csproj.GenerateResource.Cache
+C:\cs2013\ch14\DataRelation\obj\Debug\DataRelation.exe
+C:\cs2013\ch14\DataRelation\obj\Debug\DataRelation.pdb
+C:\cs2013\ch14\DataRelation\bin\Debug\Database1.mdf
+C:\cs2013\ch14\DataRelation\bin\Debug\Database1_log.ldf
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\bin\Debug\DataRelation.exe.config
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\obj\Debug\DataRelation.exe
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\obj\Debug\DataRelation.pdb
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\bin\Debug\Database1.mdf
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\bin\Debug\Database1_log.ldf
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\bin\Debug\DataRelation.exe
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\bin\Debug\DataRelation.pdb
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\obj\Debug\DataRelation.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\obj\Debug\DataRelation.Form1.resources
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\obj\Debug\DataRelation.Properties.Resources.resources
+D:\ncku_school\開課課程\102\上課講義\1030530\ch14\DataRelation\obj\Debug\DataRelation.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\bin\Debug\DataRelation.exe.config
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\obj\Debug\DataRelation.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\obj\Debug\DataRelation.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\bin\Debug\Database1.mdf
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\bin\Debug\Database1_log.ldf
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\bin\Debug\DataRelation.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\bin\Debug\DataRelation.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\obj\Debug\DataRelation.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\obj\Debug\DataRelation.Form1.resources
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\obj\Debug\DataRelation.Properties.Resources.resources
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050512\1050511_doc\ch14\DataRelation\obj\Debug\DataRelation.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataRelation\bin\Debug\DataRelation.exe.config
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataRelation\obj\Debug\DataRelation.exe
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070531_14\true_doc\ch14\DataRelation\obj\Debug\DataRelation.pdb
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\bin\Debug\Database1.mdf
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\bin\Debug\Database1_log.ldf
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\bin\Debug\DataRelation.exe.config
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\bin\Debug\DataRelation.exe
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\bin\Debug\DataRelation.pdb
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\obj\Debug\DataRelation.csprojAssemblyReference.cache
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\obj\Debug\DataRelation.Form1.resources
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\obj\Debug\DataRelation.Properties.Resources.resources
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\obj\Debug\DataRelation.csproj.GenerateResource.cache
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\obj\Debug\DataRelation.csproj.CoreCompileInputs.cache
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\obj\Debug\DataRelation.exe
+C:\Users\wwolfyTC\Downloads\109_01_all course\1081210_14\1081210_true_doc\ch14\DataRelation\obj\Debug\DataRelation.pdb
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\bin\Debug\Database1.mdf
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\bin\Debug\Database1_log.ldf
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\bin\Debug\DataRelation.exe.config
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\bin\Debug\DataRelation.exe
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\bin\Debug\DataRelation.pdb
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\obj\Debug\DataRelation.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\obj\Debug\DataRelation.Form1.resources
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\obj\Debug\DataRelation.Properties.Resources.resources
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\obj\Debug\DataRelation.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\obj\Debug\DataRelation.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\obj\Debug\DataRelation.exe
+D:\ncku_school\開課課程\10901\上課教材\1091208_14\1091208_true_doc\ch14\DataRelation\obj\Debug\DataRelation.pdb
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\bin\Debug\Database1.mdf
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\bin\Debug\Database1_log.ldf
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\bin\Debug\DataRelation.exe.config
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\bin\Debug\DataRelation.exe
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\bin\Debug\DataRelation.pdb
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\obj\Debug\DataRelation.csprojAssemblyReference.cache
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\obj\Debug\DataRelation.Form1.resources
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\obj\Debug\DataRelation.Properties.Resources.resources
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\obj\Debug\DataRelation.csproj.GenerateResource.cache
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\obj\Debug\DataRelation.csproj.CoreCompileInputs.cache
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\obj\Debug\DataRelation.exe
+C:\Users\HoeYuan\Dropbox\Temp\DataRelation\DataRelation\obj\Debug\DataRelation.pdb

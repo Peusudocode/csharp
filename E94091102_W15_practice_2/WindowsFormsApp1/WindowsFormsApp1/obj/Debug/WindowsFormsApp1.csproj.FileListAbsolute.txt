@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1.mdf
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\視窗程式設計\E94091102_W15_practice_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

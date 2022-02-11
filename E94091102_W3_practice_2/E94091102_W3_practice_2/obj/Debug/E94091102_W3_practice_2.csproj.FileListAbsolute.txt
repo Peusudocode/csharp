@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\視窗程式設計\E94091102_W3_practice_2\E94091102_W3_practice_2\obj\Debug\E94091102_W3_practice_2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\視窗程式設計\E94091102_W3_practice_2\E94091102_W3_practice_2\obj\Debug\E94091102_W3_practice_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\視窗程式設計\E94091102_W3_practice_2\E94091102_W3_practice_2\bin\Debug\E94091102_W3_practice_2.exe.config
+C:\Users\user\Desktop\視窗程式設計\E94091102_W3_practice_2\E94091102_W3_practice_2\bin\Debug\E94091102_W3_practice_2.exe
+C:\Users\user\Desktop\視窗程式設計\E94091102_W3_practice_2\E94091102_W3_practice_2\bin\Debug\E94091102_W3_practice_2.pdb
+C:\Users\user\Desktop\視窗程式設計\E94091102_W3_practice_2\E94091102_W3_practice_2\obj\Debug\E94091102_W3_practice_2.exe
+C:\Users\user\Desktop\視窗程式設計\E94091102_W3_practice_2\E94091102_W3_practice_2\obj\Debug\E94091102_W3_practice_2.pdb

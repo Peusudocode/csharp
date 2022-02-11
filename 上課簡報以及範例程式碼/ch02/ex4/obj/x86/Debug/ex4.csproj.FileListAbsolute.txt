@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\習題解答\ch02\ex4\bin\Debug\ex4.exe
+C:\Users\Administrator\Desktop\習題解答\ch02\ex4\bin\Debug\ex4.pdb
+C:\Users\Administrator\Desktop\習題解答\ch02\ex4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\習題解答\ch02\ex4\obj\x86\Debug\ex4.exe
+C:\Users\Administrator\Desktop\習題解答\ch02\ex4\obj\x86\Debug\ex4.pdb
+C:\Users\Administrator\Desktop\Visual C# 2010程式設計經典習題解答\ch02\ex4\obj\x86\Debug\ex4.exe
+C:\Users\Administrator\Desktop\Visual C# 2010程式設計經典習題解答\ch02\ex4\obj\x86\Debug\ex4.pdb
+C:\Users\Administrator\Desktop\Visual C# 2010程式設計經典習題解答\ch02\ex4\bin\Debug\ex4.exe
+C:\Users\Administrator\Desktop\Visual C# 2010程式設計經典習題解答\ch02\ex4\bin\Debug\ex4.pdb
+C:\Users\Administrator\Desktop\Visual C# 2010程式設計經典習題解答\ch02\ex4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch02\ex4\obj\x86\Debug\ex4.exe
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch02\ex4\obj\x86\Debug\ex4.pdb
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch02\ex4\bin\Debug\ex4.exe
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch02\ex4\bin\Debug\ex4.pdb
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch02\ex4\obj\x86\Debug\ex4.exe
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch02\ex4\obj\x86\Debug\ex4.pdb
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch02\ex4\bin\Debug\ex4.exe
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch02\ex4\bin\Debug\ex4.pdb
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch02\ex4\obj\x86\Debug\ex4.exe
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch02\ex4\obj\x86\Debug\ex4.pdb
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch02\ex4\bin\Debug\ex4.exe
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch02\ex4\bin\Debug\ex4.pdb
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch02\ex4\obj\x86\Debug\ex4.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070918_02\1070918_true\ch02\ex4\obj\x86\Debug\ex4.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070918_02\1070918_true\ch02\ex4\obj\x86\Debug\ex4.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070918_02\1070918_true\ch02\ex4\bin\Debug\ex4.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070918_02\1070918_true\ch02\ex4\bin\Debug\ex4.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070918_02\1070918_true\ch02\ex4\obj\x86\Debug\ex4.csprojResolveAssemblyReference.cache

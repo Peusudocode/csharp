@@ -1,0 +1,26 @@
+C:\cs\ch11\mdiForm\bin\Debug\mdiForm.exe.config
+C:\cs\ch11\mdiForm\bin\Debug\mdiForm.exe
+C:\cs\ch11\mdiForm\bin\Debug\mdiForm.pdb
+C:\cs\ch11\mdiForm\obj\Debug\mdiForm.csprojResolveAssemblyReference.cache
+C:\cs\ch11\mdiForm\obj\Debug\mdiForm.Form1.resources
+C:\cs\ch11\mdiForm\obj\Debug\mdiForm.Form2.resources
+C:\cs\ch11\mdiForm\obj\Debug\mdiForm.Properties.Resources.resources
+C:\cs\ch11\mdiForm\obj\Debug\mdiForm.csproj.GenerateResource.Cache
+C:\cs\ch11\mdiForm\obj\Debug\mdiForm.exe
+C:\cs\ch11\mdiForm\obj\Debug\mdiForm.pdb
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch11\mdiForm\bin\Debug\mdiForm.exe.config
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch11\mdiForm\obj\Debug\mdiForm.exe
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch11\mdiForm\obj\Debug\mdiForm.pdb
+C:\Users\Michaelclow\Desktop\XP13217ppt\practice\ch11\mdiForm\bin\Debug\mdiForm.exe.config
+C:\Users\Michaelclow\Desktop\XP13217ppt\practice\ch11\mdiForm\obj\Debug\mdiForm.exe
+C:\Users\Michaelclow\Desktop\XP13217ppt\practice\ch11\mdiForm\obj\Debug\mdiForm.pdb
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\mdiForm\bin\Debug\mdiForm.exe.config
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\mdiForm\obj\Debug\mdiForm.exe
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\mdiForm\obj\Debug\mdiForm.pdb
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\mdiForm\bin\Debug\mdiForm.exe
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\mdiForm\bin\Debug\mdiForm.pdb
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\mdiForm\obj\Debug\mdiForm.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\mdiForm\obj\Debug\mdiForm.Form1.resources
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\mdiForm\obj\Debug\mdiForm.Form2.resources
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\mdiForm\obj\Debug\mdiForm.Properties.Resources.resources
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\mdiForm\obj\Debug\mdiForm.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+D:\C#2012\ch03\factorial\bin\Debug\factorial.exe.config
+D:\C#2012\ch03\factorial\bin\Debug\factorial.exe
+D:\C#2012\ch03\factorial\bin\Debug\factorial.pdb
+D:\C#2012\ch03\factorial\obj\Debug\factorial.exe
+D:\C#2012\ch03\factorial\obj\Debug\factorial.pdb
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03_0403\ch03範例\factorial\bin\Debug\factorial.exe.config
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03_0403\ch03範例\factorial\obj\Debug\factorial.exe
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03_0403\ch03範例\factorial\obj\Debug\factorial.pdb
+C:\C#2012\ch03\factorial\bin\Debug\factorial.exe.config
+C:\C#2012\ch03\factorial\obj\Debug\factorial.exe
+C:\C#2012\ch03\factorial\obj\Debug\factorial.pdb
+C:\C#2012\ch03\factorial\bin\Debug\factorial.exe
+C:\C#2012\ch03\factorial\bin\Debug\factorial.pdb

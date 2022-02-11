@@ -1,0 +1,14 @@
+D:\C#2012\ch03\breakcontinue\bin\Debug\breakcontinue.exe.config
+D:\C#2012\ch03\breakcontinue\bin\Debug\breakcontinue.exe
+D:\C#2012\ch03\breakcontinue\bin\Debug\breakcontinue.pdb
+D:\C#2012\ch03\breakcontinue\obj\Debug\breakcontinue.exe
+D:\C#2012\ch03\breakcontinue\obj\Debug\breakcontinue.pdb
+C:\C#2012\ch03\breakcontinue\bin\Debug\breakcontinue.exe.config
+C:\C#2012\ch03\breakcontinue\obj\Debug\breakcontinue.exe
+C:\C#2012\ch03\breakcontinue\obj\Debug\breakcontinue.pdb
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\breakcontinue\bin\Debug\breakcontinue.exe.config
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\breakcontinue\obj\Debug\breakcontinue.exe
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\breakcontinue\obj\Debug\breakcontinue.pdb
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\breakcontinue\bin\Debug\breakcontinue.exe
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\breakcontinue\bin\Debug\breakcontinue.pdb
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\breakcontinue\obj\Debug\breakcontinue.csprojResolveAssemblyReference.cache

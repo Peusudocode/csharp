@@ -1,0 +1,64 @@
+C:\Users\banana\Desktop\text\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\banana\Desktop\text\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\banana\Desktop\text\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\banana\Desktop\text\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\banana\Desktop\text\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\banana\Desktop\text\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\banana\Desktop\text\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\banana\Desktop\text\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\banana\Desktop\text\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\banana\Desktop\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\banana\Desktop\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\banana\Desktop\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lucky\Desktop\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lucky\Desktop\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lucky\Desktop\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\105_下學期\1060406_07\true_doc\補充資料\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ncku_school\開課課程\105_下學期\1060406_07\true_doc\補充資料\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\105_下學期\1060406_07\true_doc\補充資料\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\105_下學期\1060406_07\true_doc\補充資料\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\105_下學期\1060406_07\true_doc\補充資料\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\ncku_school\開課課程\105_下學期\1060406_07\true_doc\補充資料\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ncku_school\開課課程\105_下學期\1060406_07\true_doc\補充資料\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\105_下學期\1060406_07\true_doc\補充資料\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\105_下學期\1060406_07\true_doc\補充資料\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_true_doc\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\button-array\button array\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

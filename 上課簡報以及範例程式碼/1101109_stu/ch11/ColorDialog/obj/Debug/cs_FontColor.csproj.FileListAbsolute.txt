@@ -1,0 +1,10 @@
+C:\cs2008\ch15\cs_FontColor\bin\Debug\cs_FontColor.exe
+C:\cs2008\ch15\cs_FontColor\bin\Debug\cs_FontColor.pdb
+C:\cs2008\ch15\cs_FontColor\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch15\cs_FontColor\obj\Debug\cs_FontColor.Form1.resources
+C:\cs2008\ch15\cs_FontColor\obj\Debug\cs_FontColor.Properties.Resources.resources
+C:\cs2008\ch15\cs_FontColor\obj\Debug\cs_FontColor.csproj.GenerateResource.Cache
+C:\cs2008\ch15\cs_FontColor\obj\Debug\cs_FontColor.exe
+C:\cs2008\ch15\cs_FontColor\obj\Debug\cs_FontColor.pdb
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\obj\Debug\cs_FontColor.exe
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\obj\Debug\cs_FontColor.pdb

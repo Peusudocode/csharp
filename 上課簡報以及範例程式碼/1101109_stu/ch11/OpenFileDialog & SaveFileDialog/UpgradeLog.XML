@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cs_File">
+</Property><Property Name="方案檔" Value="F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\cs_File.sln">
+</Property><Property Name="使用者選項檔" Value="F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\cs_File.suo">
+</Property><Property Name="Date" Value="2010年11月19日">
+</Property><Property Name="Time" Value="上午 11:03">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="cs_File.sln" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\cs_File.sln">
+</Event><Event ErrorLevel="0" Project="" Source="cs_File.suo" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\cs_File.suo">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="cs_File.csproj" Description="專案檔已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\cs_File.csproj">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="cs_File.csproj.user" Description="專案使用者檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\cs_File.csproj.user">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="Form1.cs" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="Form1.Designer.cs" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="Program.cs" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="Properties\AssemblyInfo.cs" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="Properties\Resources.Designer.cs" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="Properties\Settings.Designer.cs" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="Properties\Settings.settings" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="Form1.resx" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="Properties\Resources.resx" Description="檔案已成功備份為 F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="cs_File.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="cs_File" Source="cs_File.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="cs_File.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="cs_File.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cs_File" Source="cs_File.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,17 @@
+D:\C#2012\ch03\ifelse1\bin\Debug\ifelse1.exe.config
+D:\C#2012\ch03\ifelse1\bin\Debug\ifelse1.exe
+D:\C#2012\ch03\ifelse1\bin\Debug\ifelse1.pdb
+D:\C#2012\ch03\ifelse1\obj\Debug\ifelse1.exe
+D:\C#2012\ch03\ifelse1\obj\Debug\ifelse1.pdb
+C:\C#2012\ch03\ifelse1\bin\Debug\ifelse1.exe.config
+C:\C#2012\ch03\ifelse1\obj\Debug\ifelse1.exe
+C:\C#2012\ch03\ifelse1\obj\Debug\ifelse1.pdb
+C:\C#2012\ch03\ifelse1\bin\Debug\ifelse1.exe
+C:\C#2012\ch03\ifelse1\bin\Debug\ifelse1.pdb
+C:\C#2012\ch03\ifelse1\obj\Debug\ifelse1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\102\上課講義\stu_doc\ch03&ch06\1030307True\ch03_src\ifelse1\bin\Debug\ifelse1.exe.config
+D:\ncku_school\開課課程\102\上課講義\stu_doc\ch03&ch06\1030307True\ch03_src\ifelse1\obj\Debug\ifelse1.exe
+D:\ncku_school\開課課程\102\上課講義\stu_doc\ch03&ch06\1030307True\ch03_src\ifelse1\obj\Debug\ifelse1.pdb
+D:\ncku_school\開課課程\102\上課講義\stu_doc\ch03&ch06\1030307True\ch03_src\ifelse1\bin\Debug\ifelse1.exe
+D:\ncku_school\開課課程\102\上課講義\stu_doc\ch03&ch06\1030307True\ch03_src\ifelse1\bin\Debug\ifelse1.pdb
+D:\ncku_school\開課課程\102\上課講義\stu_doc\ch03&ch06\1030307True\ch03_src\ifelse1\obj\Debug\ifelse1.csprojResolveAssemblyReference.cache

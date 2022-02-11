@@ -1,0 +1,21 @@
+D:\C#2012\ch03\forsample\bin\Debug\forsample.exe.config
+D:\C#2012\ch03\forsample\bin\Debug\forsample.exe
+D:\C#2012\ch03\forsample\bin\Debug\forsample.pdb
+D:\C#2012\ch03\forsample\obj\Debug\forsample.csprojResolveAssemblyReference.cache
+D:\C#2012\ch03\forsample\obj\Debug\forsample.exe
+D:\C#2012\ch03\forsample\obj\Debug\forsample.pdb
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03_0403\ch03範例\forsample\bin\Debug\forsample.exe.config
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03_0403\ch03範例\forsample\obj\Debug\forsample.exe
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03_0403\ch03範例\forsample\obj\Debug\forsample.pdb
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03_0403\ch03範例\forsample\bin\Debug\forsample.exe
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03_0403\ch03範例\forsample\bin\Debug\forsample.pdb
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03_0403\ch03範例\forsample\obj\Debug\forsample.csprojResolveAssemblyReference.cache
+C:\C#2012\ch03\forsample\bin\Debug\forsample.exe.config
+C:\C#2012\ch03\forsample\obj\Debug\forsample.exe
+C:\C#2012\ch03\forsample\obj\Debug\forsample.pdb
+C:\C#2012\ch03\forsample\bin\Debug\forsample.exe
+C:\C#2012\ch03\forsample\bin\Debug\forsample.pdb
+C:\C#2012\ch03\forsample\obj\Debug\forsample.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\forsample\bin\Debug\forsample.exe.config
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\forsample\obj\Debug\forsample.exe
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\forsample\obj\Debug\forsample.pdb

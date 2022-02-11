@@ -1,0 +1,17 @@
+d:\cs2012\ch02\myFirst\bin\Debug\myFirst.exe.config
+D:\cs2012\ch02\myFirst\bin\Debug\myFirst.exe
+D:\cs2012\ch02\myFirst\bin\Debug\myFirst.pdb
+D:\cs2012\ch02\myFirst\obj\Debug\myFirst.exe
+D:\cs2012\ch02\myFirst\obj\Debug\myFirst.pdb
+D:\ncku_school\開課課程\102\VC#2013程式設計經典\程式設計經典範例\ch02\myFirst\bin\Debug\myFirst.exe.config
+D:\ncku_school\開課課程\102\VC#2013程式設計經典\程式設計經典範例\ch02\myFirst\obj\Debug\myFirst.exe
+D:\ncku_school\開課課程\102\VC#2013程式設計經典\程式設計經典範例\ch02\myFirst\obj\Debug\myFirst.pdb
+D:\ncku_school\開課課程\102\VC#2013程式設計經典\程式設計經典範例\ch02\myFirst\bin\Debug\myFirst.exe
+D:\ncku_school\開課課程\102\VC#2013程式設計經典\程式設計經典範例\ch02\myFirst\bin\Debug\myFirst.pdb
+D:\ncku_school\開課課程\102\VC#2013程式設計經典\程式設計經典範例\ch02\myFirst\obj\Debug\myFirst.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\ch02\myFirst\bin\Debug\myFirst.exe.config
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\ch02\myFirst\obj\Debug\myFirst.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\ch02\myFirst\obj\Debug\myFirst.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070918_02\1070918_true\ch02\myFirst\bin\Debug\myFirst.exe.config
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070918_02\1070918_true\ch02\myFirst\obj\Debug\myFirst.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1070918_02\1070918_true\ch02\myFirst\obj\Debug\myFirst.pdb

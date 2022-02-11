@@ -1,0 +1,45 @@
+C:\vs2013\ch07\GroupBox\bin\Debug\GroupBox.exe.config
+C:\vs2013\ch07\GroupBox\bin\Debug\GroupBox.exe
+C:\vs2013\ch07\GroupBox\bin\Debug\GroupBox.pdb
+C:\vs2013\ch07\GroupBox\obj\Debug\GroupBox.csprojResolveAssemblyReference.cache
+C:\vs2013\ch07\GroupBox\obj\Debug\GroupBox.Form1.resources
+C:\vs2013\ch07\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+C:\vs2013\ch07\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.Cache
+C:\vs2013\ch07\GroupBox\obj\Debug\GroupBox.exe
+C:\vs2013\ch07\GroupBox\obj\Debug\GroupBox.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07_範例\GroupBox\bin\Debug\GroupBox.exe.config
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07_範例\GroupBox\obj\Debug\GroupBox.exe
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07_範例\GroupBox\obj\Debug\GroupBox.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07-1027\ch07_範例\GroupBox\bin\Debug\GroupBox.exe.config
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07-1027\ch07_範例\GroupBox\obj\Debug\GroupBox.exe
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07-1027\ch07_範例\GroupBox\obj\Debug\GroupBox.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07-1027\ch07_範例\GroupBox\bin\Debug\GroupBox.exe
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07-1027\ch07_範例\GroupBox\bin\Debug\GroupBox.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07-1027\ch07_範例\GroupBox\obj\Debug\GroupBox.csprojResolveAssemblyReference.cache
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07-1027\ch07_範例\GroupBox\obj\Debug\GroupBox.Form1.resources
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07-1027\ch07_範例\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch07-1027\ch07_範例\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.Cache
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch07\GroupBox\bin\Debug\GroupBox.exe.config
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch07\GroupBox\obj\Debug\GroupBox.exe
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch07\GroupBox\obj\Debug\GroupBox.pdb
+D:\ncku_school\開課課程\104\104上課講義\05\stu_doc_1040410\ch07\GroupBox\bin\Debug\GroupBox.exe.config
+D:\ncku_school\開課課程\104\104上課講義\05\stu_doc_1040410\ch07\GroupBox\obj\Debug\GroupBox.exe
+D:\ncku_school\開課課程\104\104上課講義\05\stu_doc_1040410\ch07\GroupBox\obj\Debug\GroupBox.pdb
+D:\ncku_school\開課課程\104\104上課講義\05\stu_doc_1040410\ch07\GroupBox\bin\Debug\GroupBox.exe
+D:\ncku_school\開課課程\104\104上課講義\05\stu_doc_1040410\ch07\GroupBox\bin\Debug\GroupBox.pdb
+D:\ncku_school\開課課程\104\104上課講義\05\stu_doc_1040410\ch07\GroupBox\obj\Debug\GroupBox.Form1.resources
+D:\ncku_school\開課課程\104\104上課講義\05\stu_doc_1040410\ch07\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+D:\ncku_school\開課課程\104\104上課講義\05\stu_doc_1040410\ch07\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070322_04\1070321_true_doc\Example\ch07\GroupBox\bin\Debug\GroupBox.exe.config
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070322_04\1070321_true_doc\Example\ch07\GroupBox\obj\Debug\GroupBox.exe
+D:\ncku_school\開課課程\106下學期\正式上課簡報\1070322_04\1070321_true_doc\Example\ch07\GroupBox\obj\Debug\GroupBox.pdb
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch07\GroupBox\bin\Debug\GroupBox.exe.config
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch07\GroupBox\bin\Debug\GroupBox.exe
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch07\GroupBox\bin\Debug\GroupBox.pdb
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch07\GroupBox\obj\Debug\GroupBox.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch07\GroupBox\obj\Debug\GroupBox.Form1.resources
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch07\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch07\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch07\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch07\GroupBox\obj\Debug\GroupBox.exe
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch07\GroupBox\obj\Debug\GroupBox.pdb

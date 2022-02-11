@@ -1,0 +1,12 @@
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\shift_1\shift_1\bin\Debug\shift_1.exe.config
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\shift_1\shift_1\bin\Debug\shift_1.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\shift_1\shift_1\bin\Debug\shift_1.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\shift_1\shift_1\obj\Debug\shift_1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\shift_1\shift_1\obj\Debug\shift_1.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\shift_1\shift_1\obj\Debug\shift_1.pdb
+D:\ncku_school\開課課程\108第一學期\1080917_02\1080907_true\ch02\shift_1\shift_1\bin\Debug\shift_1.exe.config
+D:\ncku_school\開課課程\108第一學期\1080917_02\1080907_true\ch02\shift_1\shift_1\obj\Debug\shift_1.exe
+D:\ncku_school\開課課程\108第一學期\1080917_02\1080907_true\ch02\shift_1\shift_1\obj\Debug\shift_1.pdb
+D:\ncku_school\開課課程\108第一學期\1080917_02\1080917_stu_final\ch02\shift_1\shift_1\bin\Debug\shift_1.exe.config
+D:\ncku_school\開課課程\108第一學期\1080917_02\1080917_stu_final\ch02\shift_1\shift_1\obj\Debug\shift_1.exe
+D:\ncku_school\開課課程\108第一學期\1080917_02\1080917_stu_final\ch02\shift_1\shift_1\obj\Debug\shift_1.pdb

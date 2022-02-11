@@ -1,0 +1,9 @@
+D:\C#2012\ch03\try1\bin\Debug\try1.exe.config
+D:\C#2012\ch03\try1\bin\Debug\try1.exe
+D:\C#2012\ch03\try1\bin\Debug\try1.pdb
+D:\C#2012\ch03\try1\obj\Debug\try1.csprojResolveAssemblyReference.cache
+D:\C#2012\ch03\try1\obj\Debug\try1.exe
+D:\C#2012\ch03\try1\obj\Debug\try1.pdb
+C:\C#2012\ch03\try1\bin\Debug\try1.exe.config
+C:\C#2012\ch03\try1\obj\Debug\try1.exe
+C:\C#2012\ch03\try1\obj\Debug\try1.pdb

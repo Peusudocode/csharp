@@ -1,0 +1,8 @@
+D:\C#2012\ch03\try3\bin\Debug\try3.exe.config
+D:\C#2012\ch03\try3\bin\Debug\try3.exe
+D:\C#2012\ch03\try3\bin\Debug\try3.pdb
+D:\C#2012\ch03\try3\obj\Debug\try3.exe
+D:\C#2012\ch03\try3\obj\Debug\try3.pdb
+C:\C#2012\ch03\try3\bin\Debug\try3.exe.config
+C:\C#2012\ch03\try3\obj\Debug\try3.exe
+C:\C#2012\ch03\try3\obj\Debug\try3.pdb

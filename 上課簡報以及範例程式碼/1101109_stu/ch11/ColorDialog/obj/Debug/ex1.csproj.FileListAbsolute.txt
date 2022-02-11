@@ -1,0 +1,57 @@
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\bin\Debug\cs_FontColor.exe
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\bin\Debug\cs_FontColor.pdb
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\obj\Debug\ResolveAssemblyReference.cache
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\obj\Debug\cs_FontColor.Form1.resources
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\obj\Debug\cs_FontColor.Properties.Resources.resources
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\obj\Debug\GenerateResource.read.1.tlog
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\obj\Debug\GenerateResource.write.1.tlog
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\obj\Debug\cs_FontColor.exe
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex1\obj\Debug\cs_FontColor.pdb
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex1\obj\Debug\cs_FontColor.exe
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex1\obj\Debug\cs_FontColor.pdb
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex1\bin\Debug\cs_FontColor.exe
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex1\bin\Debug\cs_FontColor.pdb
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex1\obj\Debug\ex1.csprojResolveAssemblyReference.cache
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex1\obj\Debug\cs_FontColor.Form1.resources
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex1\obj\Debug\cs_FontColor.Properties.Resources.resources
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex1\obj\Debug\ex1.csproj.GenerateResource.Cache
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex1\obj\Debug\cs_FontColor.exe
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex1\obj\Debug\cs_FontColor.pdb
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex1\bin\Debug\cs_FontColor.exe
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex1\bin\Debug\cs_FontColor.pdb
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex1\obj\Debug\ex1.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex1\obj\Debug\cs_FontColor.Form1.resources
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex1\obj\Debug\cs_FontColor.Properties.Resources.resources
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex1\obj\Debug\ex1.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex1\obj\Debug\cs_FontColor.exe
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex1\obj\Debug\cs_FontColor.pdb
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex1\bin\Debug\cs_FontColor.exe
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex1\bin\Debug\cs_FontColor.pdb
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex1\obj\Debug\ex1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex1\obj\Debug\cs_FontColor.Form1.resources
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex1\obj\Debug\cs_FontColor.Properties.Resources.resources
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex1\obj\Debug\ex1.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\ColorDialog\obj\Debug\cs_FontColor.exe
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\ColorDialog\obj\Debug\cs_FontColor.pdb
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\ColorDialog\bin\Debug\cs_FontColor.exe
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\ColorDialog\bin\Debug\cs_FontColor.pdb
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\ColorDialog\obj\Debug\ex1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\ColorDialog\obj\Debug\cs_FontColor.Form1.resources
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\ColorDialog\obj\Debug\cs_FontColor.Properties.Resources.resources
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\ColorDialog\obj\Debug\ex1.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\ColorDialog\obj\Debug\cs_FontColor.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\ColorDialog\obj\Debug\cs_FontColor.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\ColorDialog\bin\Debug\cs_FontColor.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\ColorDialog\bin\Debug\cs_FontColor.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\ColorDialog\obj\Debug\ex1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\ColorDialog\obj\Debug\cs_FontColor.Form1.resources
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\ColorDialog\obj\Debug\cs_FontColor.Properties.Resources.resources
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\ColorDialog\obj\Debug\ex1.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\ColorDialog\obj\Debug\cs_FontColor.exe
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\ColorDialog\obj\Debug\cs_FontColor.pdb
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\ColorDialog\bin\Debug\cs_FontColor.exe
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\ColorDialog\bin\Debug\cs_FontColor.pdb
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\ColorDialog\obj\Debug\ex1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\ColorDialog\obj\Debug\cs_FontColor.Form1.resources
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\ColorDialog\obj\Debug\cs_FontColor.Properties.Resources.resources
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\ColorDialog\obj\Debug\ex1.csproj.GenerateResource.Cache

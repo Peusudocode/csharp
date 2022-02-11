@@ -1,0 +1,24 @@
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03\ch03範例\switch1\bin\Debug\switch1.exe.config
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03\ch03範例\switch1\bin\Debug\switch1.exe
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03\ch03範例\switch1\bin\Debug\switch1.pdb
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03\ch03範例\switch1\obj\Debug\switch1.csprojResolveAssemblyReference.cache
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03\ch03範例\switch1\obj\Debug\switch1.exe
+D:\do\do_VC#\Visual C# 2012 從零開始\ch03\ch03範例\switch1\obj\Debug\switch1.pdb
+D:\C#2012\ch03\switch1\bin\Debug\switch1.exe.config
+D:\C#2012\ch03\switch1\obj\Debug\switch1.exe
+D:\C#2012\ch03\switch1\obj\Debug\switch1.pdb
+D:\C#2012\ch03\switch1\bin\Debug\switch1.exe
+D:\C#2012\ch03\switch1\bin\Debug\switch1.pdb
+D:\C#2012\ch03\switch1\obj\Debug\switch1.csprojResolveAssemblyReference.cache
+C:\C#2012\ch03\switch1\bin\Debug\switch1.exe.config
+C:\C#2012\ch03\switch1\obj\Debug\switch1.exe
+C:\C#2012\ch03\switch1\obj\Debug\switch1.pdb
+C:\C#2012\ch03\switch1\bin\Debug\switch1.exe
+C:\C#2012\ch03\switch1\bin\Debug\switch1.pdb
+C:\C#2012\ch03\switch1\obj\Debug\switch1.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\switch1\bin\Debug\switch1.exe.config
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\switch1\obj\Debug\switch1.exe
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\switch1\obj\Debug\switch1.pdb
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\switch1\bin\Debug\switch1.exe
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\switch1\bin\Debug\switch1.pdb
+D:\ncku_school\開課課程\106下學期\上課相關簡報\1070308_02\1070308_true_doc\ch03\switch1\obj\Debug\switch1.csprojResolveAssemblyReference.cache

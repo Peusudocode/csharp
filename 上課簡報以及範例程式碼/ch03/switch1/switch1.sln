@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch1", "switch1.csproj", "{9163A585-6B59-47FD-8F7E-CFBE1B5417D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9163A585-6B59-47FD-8F7E-CFBE1B5417D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9163A585-6B59-47FD-8F7E-CFBE1B5417D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9163A585-6B59-47FD-8F7E-CFBE1B5417D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9163A585-6B59-47FD-8F7E-CFBE1B5417D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,67 @@
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\bin\Debug\cs_File.exe
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\bin\Debug\cs_File.pdb
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\obj\Debug\ResolveAssemblyReference.cache
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\obj\Debug\cs_File.Form1.resources
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\obj\Debug\cs_File.Properties.Resources.resources
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\obj\Debug\GenerateResource.read.1.tlog
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\obj\Debug\GenerateResource.write.1.tlog
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\obj\Debug\cs_File.exe
+F:\00-Visual C# 2010程式設計經典習題解答\ch14\ex2\obj\Debug\cs_File.pdb
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex2\obj\Debug\cs_File.exe
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex2\obj\Debug\cs_File.pdb
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex2\bin\Debug\cs_File.exe
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex2\bin\Debug\cs_File.pdb
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex2\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex2\obj\Debug\cs_File.Form1.resources
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex2\obj\Debug\cs_File.Properties.Resources.resources
+C:\Users\jasper\Desktop\Visual C# 2012程式設計經典-習解\ch14\ex2\obj\Debug\ex2.csproj.GenerateResource.Cache
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex2\obj\Debug\cs_File.exe
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex2\obj\Debug\cs_File.pdb
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex2\bin\Debug\cs_File.exe
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex2\bin\Debug\cs_File.pdb
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex2\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex2\obj\Debug\cs_File.Form1.resources
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex2\obj\Debug\cs_File.Properties.Resources.resources
+C:\Users\Joseph\Desktop\碁峰2015 C#新稿\cs2015習解\ch15\ex2\obj\Debug\ex2.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex2\obj\Debug\cs_File.exe
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex2\obj\Debug\cs_File.pdb
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex2\bin\Debug\cs_File.exe
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex2\bin\Debug\cs_File.pdb
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex2\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex2\obj\Debug\cs_File.Form1.resources
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex2\obj\Debug\cs_File.Properties.Resources.resources
+D:\ncku_school\開課課程\C#視窗程式設計參考簡報\Visual C# 2015程式設計經典\AEL0173-習解\cs2015習解\ch15\ex2\obj\Debug\ex2.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\OpenFileDialog & SaveFileDialog\bin\Debug\cs_File.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\OpenFileDialog & SaveFileDialog\bin\Debug\cs_File.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.Form1.resources
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.Properties.Resources.resources
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\ex2.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.exe
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.pdb
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\OpenFileDialog & SaveFileDialog\bin\Debug\cs_File.exe
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\OpenFileDialog & SaveFileDialog\bin\Debug\cs_File.pdb
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.Form1.resources
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.Properties.Resources.resources
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\ex2.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\OpenFileDialog & SaveFileDialog\bin\Debug\cs_File.exe
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\OpenFileDialog & SaveFileDialog\bin\Debug\cs_File.pdb
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\ex2.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.Form1.resources
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.Properties.Resources.resources
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\ex2.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.exe
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.pdb
+C:\Users\user\Desktop\視窗程式設計\上課簡報以及範例程式碼\1101109_stu\ch11\OpenFileDialog & SaveFileDialog\bin\Debug\cs_File.exe
+C:\Users\user\Desktop\視窗程式設計\上課簡報以及範例程式碼\1101109_stu\ch11\OpenFileDialog & SaveFileDialog\bin\Debug\cs_File.pdb
+C:\Users\user\Desktop\視窗程式設計\上課簡報以及範例程式碼\1101109_stu\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\ex2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\視窗程式設計\上課簡報以及範例程式碼\1101109_stu\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.Form1.resources
+C:\Users\user\Desktop\視窗程式設計\上課簡報以及範例程式碼\1101109_stu\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.Properties.Resources.resources
+C:\Users\user\Desktop\視窗程式設計\上課簡報以及範例程式碼\1101109_stu\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\ex2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\視窗程式設計\上課簡報以及範例程式碼\1101109_stu\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\視窗程式設計\上課簡報以及範例程式碼\1101109_stu\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.exe
+C:\Users\user\Desktop\視窗程式設計\上課簡報以及範例程式碼\1101109_stu\ch11\OpenFileDialog & SaveFileDialog\obj\Debug\cs_File.pdb

@@ -1,0 +1,40 @@
+C:\Users\banana\Desktop\practice 1\change\change\bin\Debug\change.exe.config
+C:\Users\banana\Desktop\practice 1\change\change\bin\Debug\change.exe
+C:\Users\banana\Desktop\practice 1\change\change\bin\Debug\change.pdb
+C:\Users\banana\Desktop\practice 1\change\change\obj\Debug\change.csprojResolveAssemblyReference.cache
+C:\Users\banana\Desktop\practice 1\change\change\obj\Debug\change.Form1.resources
+C:\Users\banana\Desktop\practice 1\change\change\obj\Debug\change.Properties.Resources.resources
+C:\Users\banana\Desktop\practice 1\change\change\obj\Debug\change.csproj.GenerateResource.Cache
+C:\Users\banana\Desktop\practice 1\change\change\obj\Debug\change.exe
+C:\Users\banana\Desktop\practice 1\change\change\obj\Debug\change.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\change feature\change feature\change\change\bin\Debug\change.exe.config
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\change feature\change feature\change\change\obj\Debug\change.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\change feature\change feature\change\change\obj\Debug\change.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\change feature\change feature\change\change\bin\Debug\change.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\change feature\change feature\change\change\bin\Debug\change.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\change feature\change feature\change\change\obj\Debug\change.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\change feature\change feature\change\change\obj\Debug\change.Form1.resources
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\change feature\change feature\change\change\obj\Debug\change.Properties.Resources.resources
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050310\1050310_final_doc\change feature\change feature\change\change\obj\Debug\change.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\105_下學期\1060309_03\change feature\change\change\bin\Debug\change.exe.config
+D:\ncku_school\開課課程\105_下學期\1060309_03\change feature\change\change\obj\Debug\change.exe
+D:\ncku_school\開課課程\105_下學期\1060309_03\change feature\change\change\obj\Debug\change.pdb
+D:\ncku_school\開課課程\105_下學期\1060309_03\stu_doc_1060309\ch06\change feature\change\change\bin\Debug\change.exe.config
+D:\ncku_school\開課課程\105_下學期\1060309_03\stu_doc_1060309\ch06\change feature\change\change\obj\Debug\change.exe
+D:\ncku_school\開課課程\105_下學期\1060309_03\stu_doc_1060309\ch06\change feature\change\change\obj\Debug\change.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071009_05\1071009_true\Example\ch06_2\change\change\bin\Debug\change.exe.config
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071009_05\1071009_true\Example\ch06_2\change\change\obj\Debug\change.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071009_05\1071009_true\Example\ch06_2\change\change\obj\Debug\change.pdb
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\ch06_2\change\change\bin\Debug\change.exe.config
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\ch06_2\change\change\obj\Debug\change.exe
+D:\ncku_school\開課課程\108第一學期\1081008_05\1081008_05_true\Example\ch06_2\change\change\obj\Debug\change.pdb
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch06_2\change\change\bin\Debug\change.exe.config
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch06_2\change\change\bin\Debug\change.exe
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch06_2\change\change\bin\Debug\change.pdb
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch06_2\change\change\obj\Debug\change.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch06_2\change\change\obj\Debug\change.Form1.resources
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch06_2\change\change\obj\Debug\change.Properties.Resources.resources
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch06_2\change\change\obj\Debug\change.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch06_2\change\change\obj\Debug\change.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch06_2\change\change\obj\Debug\change.exe
+D:\ncku_school\開課課程\10901\上課教材\1091006_05\1091006_05_ture\Example\ch06_2\change\change\obj\Debug\change.pdb
